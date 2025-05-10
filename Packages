@@ -1,0 +1,29 @@
+Package: com.zxc.simpleremotecontrol
+Version: 0.1.5
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 4500
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.zxc.simpleremotecontrol_0.1.5_iphoneos-arm.deb
+Size: 1218932
+MD5sum: 91d9e05676b018d6963f5ebabb726b1b
+SHA1: d8d8dd79090bb3796745f9eeb2532d39aecf13d3
+SHA256: e487772da403b33d0aed11bc122ca6c9bb2afa7411ae2b26d6135fb4fa551ce0
+Section: Tweaks
+Description: 一个简单的远程控制手机插件, 修改自《小白技术社》
+ 使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口
+Name: iOS远控
+
+Package: apt.sun.pencilchargingindicator
+Version: 1.2~b7
+Architecture: iphoneos-arm
+Name: Apple Pencil 充电动画
+Description: 这个插件可以将 iPad Pro 2018/2020 的 Apple Pencil 充电动画带到手机上。修改自 https://apt.sunbelife.com/package/73
+Depends: mobilesubstrate
+Installed-Size: 3592
+Section: Tweaks
+Filename: /debs/apt.sun.pencilchargingindicator_1.2~b7_iphoneos-arm.deb
+Size: 378146
+MD5sum: d9f2d671451da9140df9ec04f5daf352
+SHA1: c062616d4512ec610c6be4e16f0c084bb0b154f5
+SHA256: c5b4eeefc2c385095d7038a47aeb92a0bb0903428887c6189936011b37e10600

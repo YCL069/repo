@@ -1,0 +1,8 @@
+Origin: YCL
+Label: YCL's cydia repo
+Suite: stable
+Version: 1.0
+Codename: com.ycl
+Architectures: iphoneos-arm
+Components: main
+Description:
